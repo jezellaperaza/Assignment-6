@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.24)  24 FEB 2023 13:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.24)  24 FEB 2023 13:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**hw_06_template.tex
-(./hw_06_template.tex
+**Jezella-Peraza-HW-6.tex
+(./Jezella-Peraza-HW-6.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-07> (c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2022/07/02 v1.4n Standard LaTeX document class
@@ -333,8 +333,8 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count289
 \l__pdf_internal_box=\box53
-) (./hw_06_template.aux)
-\openout1 = `hw_06_template.aux'.
+) (./Jezella-Peraza-HW-6.aux)
+\openout1 = `Jezella-Peraza-HW-6.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
 LaTeX Font Info:    ... okay on input line 96.
@@ -361,9 +361,9 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring OFF on input line 96.
-(./hw_06_template.out) (./hw_06_template.out)
+(./Jezella-Peraza-HW-6.out) (./Jezella-Peraza-HW-6.out)
 \@outlinefile=\write3
-\openout3 = `hw_06_template.out'.
+\openout3 = `Jezella-Peraza-HW-6.out'.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -430,12 +430,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 98.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./hw_06_template.toc
+{c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Jezella-Peraza-HW-6.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10.95> on input line 4.
 )
 \tf@toc=\write4
-\openout4 = `hw_06_template.toc'.
+\openout4 = `Jezella-Peraza-HW-6.toc'.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -522,10 +522,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [9]
-<hw_06_template_files/figure-latex/random_walk-1.pdf, id=144, 469.755pt x 325.215pt>
-File: hw_06_template_files/figure-latex/random_walk-1.pdf Graphic file (type pdf)
-<use hw_06_template_files/figure-latex/random_walk-1.pdf>
-Package pdftex.def Info: hw_06_template_files/figure-latex/random_walk-1.pdf  used on input line 291.
+<Jezella-Peraza-HW-6_files/figure-latex/random_walk-1.pdf, id=144, 469.755pt x 325.215pt>
+File: Jezella-Peraza-HW-6_files/figure-latex/random_walk-1.pdf Graphic file (type pdf)
+<use Jezella-Peraza-HW-6_files/figure-latex/random_walk-1.pdf>
+Package pdftex.def Info: Jezella-Peraza-HW-6_files/figure-latex/random_walk-1.pdf  used on input line 291.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -544,11 +544,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[11 <./hw_06_template_files/figure-latex/random_walk-1.pdf>]
-<hw_06_template_files/figure-latex/rw_diff-1.pdf, id=160, 469.755pt x 325.215pt>
-File: hw_06_template_files/figure-latex/rw_diff-1.pdf Graphic file (type pdf)
-<use hw_06_template_files/figure-latex/rw_diff-1.pdf>
-Package pdftex.def Info: hw_06_template_files/figure-latex/rw_diff-1.pdf  used on input line 319.
+[11 <./Jezella-Peraza-HW-6_files/figure-latex/random_walk-1.pdf>]
+<Jezella-Peraza-HW-6_files/figure-latex/rw_diff-1.pdf, id=160, 469.755pt x 325.215pt>
+File: Jezella-Peraza-HW-6_files/figure-latex/rw_diff-1.pdf Graphic file (type pdf)
+<use Jezella-Peraza-HW-6_files/figure-latex/rw_diff-1.pdf>
+Package pdftex.def Info: Jezella-Peraza-HW-6_files/figure-latex/rw_diff-1.pdf  used on input line 319.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -557,7 +557,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[12 <./hw_06_template_files/figure-latex/rw_diff-1.pdf>]
+[12 <./Jezella-Peraza-HW-6_files/figure-latex/rw_diff-1.pdf>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -601,20 +601,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [17
 
-] (./hw_06_template.aux)
-Package rerunfilecheck Info: File `hw_06_template.out' has not changed.
+] (./Jezella-Peraza-HW-6.aux)
+Package rerunfilecheck Info: File `Jezella-Peraza-HW-6.out' has not changed.
 (rerunfilecheck)             Checksum: 542937513C95E343B27E8D3FA51E99AD;1439.
  ) 
 Here is how much of TeX's memory you used:
  10885 strings out of 477989
- 173341 string characters out of 5837397
+ 173511 string characters out of 5837397
  1856340 words of memory out of 5000000
  30845 multiletter control sequences out of 15000+600000
  561847 words of font info for 65 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,12n,76p,252b,459s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,76p,257b,459s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on hw_06_template.pdf (18 pages, 208135 bytes).
+Output written on Jezella-Peraza-HW-6.pdf (18 pages, 208147 bytes).
 PDF statistics:
  267 PDF objects out of 1000 (max. 8388607)
  219 compressed objects within 3 object streams
