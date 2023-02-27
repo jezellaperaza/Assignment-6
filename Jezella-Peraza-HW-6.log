@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.24)  24 FEB 2023 13:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.24)  27 FEB 2023 09:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -514,15 +514,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [8]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[9]
-<Jezella-Peraza-HW-6_files/figure-latex/random_walk-1.pdf, id=144, 469.755pt x 325.215pt>
+<Jezella-Peraza-HW-6_files/figure-latex/random_walk-1.pdf, id=139, 469.755pt x 325.215pt>
 File: Jezella-Peraza-HW-6_files/figure-latex/random_walk-1.pdf Graphic file (type pdf)
 <use Jezella-Peraza-HW-6_files/figure-latex/random_walk-1.pdf>
 Package pdftex.def Info: Jezella-Peraza-HW-6_files/figure-latex/random_walk-1.pdf  used on input line 291.
@@ -534,7 +526,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[10
+[9
 
 ]
 
@@ -544,8 +536,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[11 <./Jezella-Peraza-HW-6_files/figure-latex/random_walk-1.pdf>]
-<Jezella-Peraza-HW-6_files/figure-latex/rw_diff-1.pdf, id=160, 469.755pt x 325.215pt>
+[10 <./Jezella-Peraza-HW-6_files/figure-latex/random_walk-1.pdf>]
+<Jezella-Peraza-HW-6_files/figure-latex/rw_diff-1.pdf, id=156, 469.755pt x 325.215pt>
 File: Jezella-Peraza-HW-6_files/figure-latex/rw_diff-1.pdf Graphic file (type pdf)
 <use Jezella-Peraza-HW-6_files/figure-latex/rw_diff-1.pdf>
 Package pdftex.def Info: Jezella-Peraza-HW-6_files/figure-latex/rw_diff-1.pdf  used on input line 319.
@@ -557,7 +549,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[12 <./Jezella-Peraza-HW-6_files/figure-latex/rw_diff-1.pdf>]
+[11 <./Jezella-Peraza-HW-6_files/figure-latex/rw_diff-1.pdf>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -565,7 +557,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[13]
+[12]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -573,9 +565,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[14
+[13
 
 ]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[14]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -591,33 +591,25 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[16]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[17
+[16
 
 ] (./Jezella-Peraza-HW-6.aux)
 Package rerunfilecheck Info: File `Jezella-Peraza-HW-6.out' has not changed.
 (rerunfilecheck)             Checksum: 542937513C95E343B27E8D3FA51E99AD;1439.
  ) 
 Here is how much of TeX's memory you used:
- 10885 strings out of 477989
- 173511 string characters out of 5837397
- 1856340 words of memory out of 5000000
+ 10884 strings out of 477989
+ 173504 string characters out of 5837397
+ 1857340 words of memory out of 5000000
  30845 multiletter control sequences out of 15000+600000
  561847 words of font info for 65 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,12n,76p,257b,459s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,76p,257b,459s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/Users/Jezella Peraza/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy8.pfb>
-Output written on Jezella-Peraza-HW-6.pdf (18 pages, 208147 bytes).
+Output written on Jezella-Peraza-HW-6.pdf (17 pages, 207479 bytes).
 PDF statistics:
- 267 PDF objects out of 1000 (max. 8388607)
- 219 compressed objects within 3 object streams
- 56 named destinations out of 1000 (max. 500000)
+ 263 PDF objects out of 1000 (max. 8388607)
+ 216 compressed objects within 3 object streams
+ 55 named destinations out of 1000 (max. 500000)
  123 words of extra memory for PDF output out of 10000 (max. 10000000)
 
